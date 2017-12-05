@@ -1,2 +1,5 @@
 Git is free software distributed under the GPL.
 git远程push到GitHub
+
+
+使用同一电脑不同目录下的push，检验效果。
