@@ -1,0 +1,4 @@
+要push之前，先从gitee上fetch文件，git fetch gitee master
+之后，pull文件，git pull gitee master 
+添加/提交文件
+再push，git push gitee master 
